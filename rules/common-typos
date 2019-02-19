@@ -55,4 +55,5 @@ including:  % syntax I prefer no colon after including, which already says a lis
 [a-z]\([A-Z]  % syntax put a space before parens, even when introducing acronyms.
 without and without % phrase saw this.
 can be result       % phrase saw this typo.
-
+, that              % phrase don't use a comma before restrictive that (maybe use which?)
+[a-z] which         % phrase use comman before subordinate which (rarely ok, maybe use that?)
